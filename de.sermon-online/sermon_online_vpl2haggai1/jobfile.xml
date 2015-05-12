@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2015  Stephan Kreutzer
+
+This file is part of sermon_online_vpl2haggai1.
+
+sermon_online_vpl2haggai1 is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License version 3 or any later version,
+as published by the Free Software Foundation.
+
+sermon_online_vpl2haggai1 is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License 3 for more details.
+
+You should have received a copy of the GNU Affero General Public License 3
+along with sermon_online_vpl2haggai1. If not, see <http://www.gnu.org/licenses/>.
+-->
+<sermon_online_vpl2haggai1-job>
+  <bible-common-name>Common Translation</bible-common-name>
+  <metadata>
+    <bible-full-name>The Full Name of the Common Translation</bible-full-name>
+    <creator>Responsible Entity</creator>
+    <description>A detailed description of the Translation.</description>
+    <publisher>The Publisher</publisher>
+    <contributors>
+      <contributor>Each</contributor>
+      <contributor>And</contributor>
+      <contributor>Every</contributor>
+      <contributor>Contributor</contributor>
+    </contributors>
+    <date>2015-05-12</date>
+    <identifier>worldwide_unique_identifier</identifier>
+    <source>From a printed version or which digital source.</source>
+    <language>en</language>
+    <coverage>Coverage of Bible books</coverage>
+    <rights>Please consider free licensing such as Creative Commons BY-SA 4.0 International or even better, the GNU Affero General Public License 3 with option to upgrade to future versions of the license.</rights>
+  </metadata>
+  <options>
+    <!--
+      When a portion of a line gets checked whether it is a footnote or not,
+      if the characters between the footnote mark limiters exceed the number
+      given by this option, it will get considered as ordinary text and not
+      as a footnote mark. This setting is optional.
+    -->
+    <footnote-mark-character-count-max>1</footnote-mark-character-count-max>
+  </options>
+  <bible-books>
+    <book identifier="Johannes" number="43" long-name="Johannes" short-name="Johannes"/>
+  </bible-books>
+</sermon_online_vpl2haggai1-job>

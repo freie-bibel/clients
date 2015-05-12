@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Copyright (C) 2015  Stephan Kreutzer
+
+This file is part of sermon_online_vpl2haggai1 workflow.
+
+sermon_online_vpl2haggai1 workflow is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License version 3 or any later version,
+as published by the Free Software Foundation.
+
+sermon_online_vpl2haggai1 workflow is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License 3 for more details.
+
+You should have received a copy of the GNU Affero General Public License 3
+along with sermon_online_vpl2haggai1 workflow. If not, see <http://www.gnu.org/licenses/>.
+-->
+<txtreplace1-replacement-dictionary>
+  <!-- patterns last character is a non breaking space. -->
+  <replace>
+    <pattern> 1) </pattern>
+    <replacement> -1) </replacement>
+  </replace>
+  <replace>
+    <pattern> 2) </pattern>
+    <replacement> -2) </replacement>
+  </replace>
+  <replace>
+    <pattern> 3) </pattern>
+    <replacement> -3) </replacement>
+  </replace>
+  <replace>
+    <pattern> 4) </pattern>
+    <replacement> -4) </replacement>
+  </replace>
+  <replace>
+    <pattern> 5) </pattern>
+    <replacement> -5) </replacement>
+  </replace>
+  <replace>
+    <pattern> 6) </pattern>
+    <replacement> -6) </replacement>
+  </replace>
+  <replace>
+    <pattern> 7) </pattern>
+    <replacement> -7) </replacement>
+  </replace>
+  <replace>
+    <pattern> 8) </pattern>
+    <replacement> -8) </replacement>
+  </replace>
+  <replace>
+    <pattern> 9) </pattern>
+    <replacement> -9) </replacement>
+  </replace>
+  <replace>
+    <pattern> a) </pattern>
+    <replacement> -a) </replacement>
+  </replace>
+  <replace>
+    <pattern> b) </pattern>
+    <replacement> -b) </replacement>
+  </replace>
+  <replace>
+    <pattern> c) </pattern>
+    <replacement> -c) </replacement>
+  </replace>
+  <replace>
+    <pattern> d) </pattern>
+    <replacement> -d) </replacement>
+  </replace>
+  <replace>
+    <pattern> e) </pattern>
+    <replacement> -e) </replacement>
+  </replace>
+  <replace>
+    <pattern>-1-1) </pattern>
+    <replacement>-1) </replacement>
+  </replace>
+</txtreplace1-replacement-dictionary>
